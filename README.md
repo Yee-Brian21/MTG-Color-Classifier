@@ -1,4 +1,5 @@
-![MTG lands](/Images/lands.jpg "MTG lands banner")
+<img src="/Images/lands.jpg" width="150%" height="150%">
+
 # MTG-Color-Classifier
 Project to classify the color identify of Magic: The Gathering cards.
 
