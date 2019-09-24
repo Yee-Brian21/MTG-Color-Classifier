@@ -39,8 +39,9 @@ I started by creating a graph to see the distribution of my classes to make sure
 ![Class Distribution](Images/color_dist.png "Class distribution")
 
 Then I created many graphs to see the class distribution of the features.
-
+### Distribution of Keywords
 ![Keywords](Images/keywords.png "Keywords distribution")
+### Distribution of Types
 ![Types](Images/types.png "Type distribution")
 
 ## Models
@@ -84,22 +85,23 @@ An untuned XGBoost model had an accuracy score of 0.4701, the highest so far. Af
 Some examples of predictions made by my final XGBoost model. Each prediction was given as an array of percentages corresponding to each class giving how likely the card is to be a certain class.
 
 ![Glaive of the Guildpact](Images/guildpact_glaive.png "Class probabilities for Glaive of the Guildpact")
-![Glaive of the Guildpact card](Images/guildpact_glaive_card.png "Glaive of the Guildpact card image")
+<img src="Images/guildpact_glaive_card.jpg" width="25%" height="25%">
 
 ![Gigantosaurus](Images/gigantosaurus.png "Class probabilities for Gigantosaurus")
-![Gigantosaurus Card](Images/gigantosaurus_card.png "Gigantosaurus card image")
+<img src="Images/gigantosaurus_card.jpg" width="25%" height="25%">
 
 ![Crippling Blight](Images/crippling_blight.png "Class probabilities for Crippling Blight")
-![Crippling Blight card](Images/crippling_blight_card.png "Crippling Blight card image")
+<img src="Images/crippling_blight_card.jpg" width="25%" height="25%">
 
 ![Prophet of Distortion](Images/prophet_of_distortion.png "Class probabilities for Prophet of Distortion")
-![Prophet of Distortion card](Images/prophet_of_distortion_card.png "Prophet of Distortion card image")
+<img src="Images/prophet_of_distortion_card.jpg" width="25%" height="25%">
 
 ![Kolaghan Skirmisher](Images/kolaghan_skirmisher.png "Class probabilities for Kolaghan Skirmisher")
-![Kolaghan Skirmisher card](Images/kolaghan_skirmisher_card.png "Kolaghan Skirmisher card image")
+<img src="Images/kolaghan_skirmisher_card.jpg" width="25%" height="25%">
 
 ![Currupted Conscience](Images/corrupted_conscience.png "Class probabilities for Currupted Conscience")
-![Currupted Conscience card](Images/corrupted_conscience_card.png "Corrupted Conscience card image")
+<img src="Images/corrupted_conscience_card.jpg" width="25%" height="25%">
+
 
 ## Possible Improvements
 - Include a way to classify multi-colored cards.
