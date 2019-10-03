@@ -88,17 +88,22 @@ Some examples of predictions made by my final XGBoost model. Each prediction was
 ![Glaive of the Guildpact](Images/guildpact_glaive.png "Class probabilities for Glaive of the Guildpact")
 <img src="Images/guildpact_glaive_card.jpg" width="25%" height="25%">
 
+
 ![Gigantosaurus](Images/gigantosaurus.png "Class probabilities for Gigantosaurus")
 <img src="Images/gigantosaurus_card.jpg" width="25%" height="25%">
+
 
 ![Crippling Blight](Images/crippling_blight.png "Class probabilities for Crippling Blight")
 <img src="Images/crippling_blight_card.jpg" width="25%" height="25%">
 
+
 ![Prophet of Distortion](Images/prophet_of_distortion.png "Class probabilities for Prophet of Distortion")
 <img src="Images/prophet_of_distortion_card.jpg" width="25%" height="25%">
 
+
 ![Kolaghan Skirmisher](Images/kolaghan_skirmisher.png "Class probabilities for Kolaghan Skirmisher")
 <img src="Images/kolaghan_skirmisher_card.jpg" width="25%" height="25%">
+
 
 ![Currupted Conscience](Images/corrupted_conscience.png "Class probabilities for Currupted Conscience")
 <img src="Images/corrupted_conscience_card.jpg" width="25%" height="25%">
